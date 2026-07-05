@@ -46,9 +46,3 @@ I am an **Applied Computer Science** student with hands-on experience in IT oper
 
 - **Certifications:** CCNA (Completed) | AZ-900 / MD-102 (In Preparation)
 - **Languages:** Arabic (Native) | German (C1) | English (C1)
-
----
-
-### 📫 Connect with Me
-- **LinkedIn:** [Insert your LinkedIn Link here]
-- **Email:** [Insert your Email here]
