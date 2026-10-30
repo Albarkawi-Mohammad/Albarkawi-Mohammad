@@ -38,5 +38,3 @@ My experience includes IT support, troubleshooting, network analysis, client con
 - **AI applications:** LLM APIs, document retrieval, RAG, prompt design, and source-grounded responses.
 - **Software and data:** Python, React, TypeScript, Flask, REST APIs, SQL/SQLite, and JSON.
 - **Development workflow:** Git, pull requests, AI coding tools, automated checks, and browser testing.
-
-I am interested in **working-student opportunities in applied AI, AI solutions, automation, and AI-assisted software development**, including roles that connect requirements, prototyping, and quality evaluation.
