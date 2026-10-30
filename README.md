@@ -1,28 +1,42 @@
 # Mohammad Albarkawi
 
-### Software development · Applied AI · Automation
+### Applied AI · Automation · AI-assisted software development
 
-I study **Applied Computer Science and Social Media at Hamm-Lippstadt University of Applied Sciences (HSHL)**. I build practical applications that help people organize information, simplify repetitive tasks, and work with data more easily.
+I turn practical problems into structured solutions and working prototypes. My strengths are identifying what needs to improve, breaking complex tasks into clear requirements, and planning how the parts of a solution fit together.
 
-My interests connect software development, AI, and IT systems. I enjoy taking an idea through implementation, testing, and refinement, with attention to how people will actually use the result.
+I study **Applied Computer Science and Social Media at Hamm-Lippstadt University of Applied Sciences (HSHL)**. My project work combines AI applications, information management, and software tools that make everyday workflows easier.
 
-## What I build
+## How I work
 
-- **Web applications and dashboards:** interfaces for planning, managing configurations, comparing information, and exploring data through interactive visualizations.
-- **AI-assisted tools:** document and knowledge assistants that combine retrieval with source-grounded answers, as well as email workflows with summaries and draft replies.
-- **Desktop productivity applications:** tools for organizing documents, detecting duplicates, and finding and reusing copied text.
-- **Automation and reporting:** scripts that extract, clean, and combine data into structured reports, reducing repetitive manual work.
+- **Understand the problem:** identify user needs, repetitive tasks, and gaps in existing workflows.
+- **Structure the solution:** define requirements, organize data and application components, and break implementation into manageable steps.
+- **Build and iterate:** use AI-assisted development to prototype features, connect interfaces and APIs, and refine the result.
+- **Check usefulness and quality:** investigate issues, review outputs against requirements, and use testing and documentation to support improvements.
 
-## Experience and approach
+I use tools such as Claude Code, Cursor, and Codex as part of this process. My focus is on clear specifications, thoughtful iteration, and checking that the resulting application addresses the original problem.
 
-Through personal and team projects, I have worked on frontend interfaces, backend functionality, local storage, import and export, API integration, and packaging desktop applications. These projects have helped me connect application logic with clear interfaces and practical workflows.
+## Project experience
 
-My IT experience includes user support, troubleshooting, client configuration, network analysis, and technical documentation. It has shaped the way I approach software: understand the problem, make the solution usable, and document it so others can work with it.
+**Knowledge assistants and retrieval-augmented generation (RAG)**  
+My campus knowledge-assistant project combines document preparation, semantic retrieval, and answers grounded in sources. It explores how relevant context and clear boundaries help an assistant handle questions, including those that the available material cannot answer.
 
-I use Git and pull requests for collaboration, and automated checks and browser testing to review changes. I am particularly interested in improving data quality and making AI-assisted applications more reliable and understandable.
+**AI-supported email workflows**  
+In a team project, I contributed to the web interface and parts of the AI backend for an email organizer with summaries and draft replies. This connected user-facing workflows with LLM functionality and collaborative development.
 
-## Technologies
+**Document organization — [DocPilot](https://github.com/Albarkawi-Mohammad/DocPilot)**  
+A desktop project for organizing PDF documents through import, metadata, duplicate detection, and review workflows. It reflects my interest in making information easier to manage and preparing structured data for useful applications.
 
-Python, JavaScript/TypeScript, React, Flask, SQL/SQLite, REST APIs, Git, and PowerShell. My projects also involve desktop interfaces, interactive charts, document retrieval, and LLM APIs.
+**Interactive applications — [EduFlow](https://github.com/Albarkawi-Mohammad/EduFlow) and [GearSync](https://github.com/Albarkawi-Mohammad/GearSync)**  
+Study planning, data visualization, and configuration management projects that connect structured information with practical interfaces, local storage, and import/export workflows.
 
-Explore my repositories below for project details and implementation examples.
+## Practical background
+
+My experience includes IT support, troubleshooting, network analysis, client configuration, technical documentation, and scripts for data preparation and reporting. This gives me a practical perspective on how tools fit into day-to-day work and how to explain technical solutions clearly.
+
+## Technologies used across my projects
+
+- **AI applications:** LLM APIs, document retrieval, RAG, prompt design, and source-grounded responses.
+- **Software and data:** Python, React, TypeScript, Flask, REST APIs, SQL/SQLite, and JSON.
+- **Development workflow:** Git, pull requests, AI coding tools, automated checks, and browser testing.
+
+I am interested in **working-student opportunities in applied AI, AI solutions, automation, and AI-assisted software development**, including roles that connect requirements, prototyping, and quality evaluation.
